@@ -1,3 +1,0 @@
-sth
-fetch this
-fetch that
